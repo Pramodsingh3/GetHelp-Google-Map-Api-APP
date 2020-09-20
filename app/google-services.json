@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "348840594922",
+    "firebase_url": "https://gethelp-5a6d1.firebaseio.com",
+    "project_id": "gethelp-5a6d1",
+    "storage_bucket": "gethelp-5a6d1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348840594922:android:c136d36d2760c881577693",
+        "android_client_info": {
+          "package_name": "com.example.android.gethelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "348840594922-qgel70a678p2drotgnau3388jg1hcil6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANpq_5RYBFeEvEdaCBGeU1ogSNz4fgwvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "348840594922-qgel70a678p2drotgnau3388jg1hcil6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
